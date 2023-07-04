@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "vuepress": "^2.0.0-beta.64"
+  },
+  "engines": {
+    "node": ">=16.19.0"
   }
 }
