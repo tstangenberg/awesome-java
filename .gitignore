@@ -2,3 +2,4 @@
 node_modules
 .vuepress
 !.vuepress/vuepress.config.ts
+!.vuepress/public
