@@ -1,5 +1,5 @@
 .idea
 node_modules
 .vuepress
-!.vuepress/vuepress.config.ts
+!.vuepress/config.ts
 !.vuepress/public
