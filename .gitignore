@@ -1,3 +1,4 @@
-.idea/
+.idea
 node_modules
 .vuepress
+!.vuepress/vuepress.config.ts
