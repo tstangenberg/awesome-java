@@ -1,5 +1,7 @@
-.idea
-node_modules
-.vuepress
-!.vuepress/config.ts
-!.vuepress/public
+.idea/
+node_modules/
+
+# vuepress 
+.vuepress/.cache/
+.vuepress/.temp/
+.vuepress/dist/
